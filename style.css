@@ -1,0 +1,146 @@
+ body {
+        margin: 0 auto;
+    }
+    
+    .main {
+        width: 100%;
+        margin: 0 auto;
+    }
+    
+    .header {
+        width: 100%;
+    }
+    
+    .header .top {
+        background: #033;
+        height: 80px;
+    }
+    
+    .header .top .email {
+        float: left;
+        color: #d7f8ff;
+        width: 33%;
+        text-align: center;
+    }
+    
+    .header .top .phone {
+        float: left;
+        color: #d7f8ff;
+        width: 33%;
+        text-align: center;
+    }
+    
+    .header .top .icons ul {
+        float: left;
+        margin-left: 100px;
+        padding-top: 10px;
+    }
+    
+    .header .top .icons ul li {
+        display: inline-block;
+        float: left;
+        list-style: none;
+        padding-right: 10px;
+    }
+    
+    .clearfix {
+        clear: both;
+    }
+    
+    .menu {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .menu .logo {
+        float: left;
+        width: 33.3%;
+        text-align: center;
+    }
+    
+    .menu .menu_line {
+        float: left;
+        width: 48%;
+        text-align: right;
+    }
+    
+    .menu .menu_line ul li {
+        display: inline-block;
+        list-style-type: none;
+        color: #333;
+        padding-right: 10px;
+    }
+.first {
+    background-image: url(../img/01.jpg);
+    background-size: cover;
+    background-position: left bottom;
+}
+
+.first .word {
+    text-align: center;
+    padding: 300 80;
+}
+
+.word h3 {
+    border: 1px solid;
+    color: #339966;
+    padding: 8px;
+    margin: 20 750;
+    font-size: 20;
+}
+
+.computer-image {
+    width: 40%;
+    float:left;
+}
+.computer-image img {
+    width:100%;
+}
+
+.clear {
+    clear: both;
+}
+.text {
+    width: 36%;
+    float:left;
+    margin-top: 78px;
+    margin-left:50px;
+}
+.text h3 {
+    font-weight: 700;
+    color: #339966;
+    font-family: 'Lato', sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+
+.footer {
+    background: #339966;
+    color: #fff;
+    font-size: 14px;
+}
+.text-area {
+    text-align: center;
+}
+.footer p {
+    margin-top: 30px;
+}
+.social-links li {
+    list-style: none;
+    display: inline-block;
+    padding:10px;
+    font-size: 30px;
+    margin-top: 25px;
+    
+}
+.top-button {
+    font-size: 17px;
+   
+}
+.top-button a {
+    color: #fff;
+    font-style: none;
+    text-decoration: none;
+}
